@@ -1,0 +1,277 @@
+
+# REBLEED
+
+
+
+ROCKALL
+
+Area under the ROC curve (AUC):  0.64 (0.561, 0.718) 
+
+CRITERION: Youden
+Number of optimal cutoffs: 1
+
+                     Estimate
+cutoff              4.0000000
+Se                  0.8269231
+Sp                  0.3791667
+PPV                 0.2239583
+NPV                 0.9100000
+DLR.Positive        1.3319566
+DLR.Negative        0.4564666
+FP                149.0000000
+FN                  9.0000000
+Optimal criterion   0.2060897
+
+
+
+GBS
+
+Area under the ROC curve (AUC):  0.699 (0.625, 0.773) 
+
+CRITERION: Youden
+Number of optimal cutoffs: 1
+
+                     Estimate
+cutoff             10.0000000
+Se                  0.7307692
+Sp                  0.5666667
+PPV                 0.2676056
+NPV                 0.9066667
+DLR.Positive        1.6863905
+DLR.Negative        0.4751131
+FP                104.0000000
+FN                 14.0000000
+Optimal criterion   0.2974359
+
+
+AIMS65
+
+Area under the ROC curve (AUC):  0.566 (0.484, 0.648) 
+
+CRITERION: Youden
+Number of optimal cutoffs: 1
+
+                     Estimate
+cutoff              1.0000000
+Se                  0.6923077
+Sp                  0.4208333
+PPV                 0.2057143
+NPV                 0.8632479
+DLR.Positive        1.1953514
+DLR.Negative        0.7311500
+FP                139.0000000
+FN                 16.0000000
+Optimal criterion   0.1131410
+
+
+PNED
+
+Area under the ROC curve (AUC):  0.773 (0.704, 0.843) 
+
+CRITERION: Youden
+Number of optimal cutoffs: 1
+
+                    Estimate
+cutoff             6.0000000
+Se                 0.5384615
+Sp                 0.8708333
+PPV                0.4745763
+NPV                0.8969957
+DLR.Positive       4.1687345
+DLR.Negative       0.5299963
+FP                31.0000000
+FN                24.0000000
+Optimal criterion  0.4092949
+
+
+#DEATH_7
+
+
+ROCKALL
+
+Area under the ROC curve (AUC):  0.689 (0.546, 0.832) 
+
+CRITERION: Youden
+Number of optimal cutoffs: 1
+
+                      Estimate
+cutoff              5.00000000
+Se                  0.86666667
+Sp                  0.41877256
+PPV                 0.07471264
+NPV                 0.98305085
+DLR.Positive        1.49109731
+DLR.Negative        0.31839080
+FP                161.00000000
+FN                  2.00000000
+Optimal criterion   0.28543923
+
+
+GBS
+
+Area under the ROC curve (AUC):  0.699 (0.625, 0.773) 
+
+CRITERION: Youden
+Number of optimal cutoffs: 1
+
+                     Estimate
+cutoff             10.0000000
+Se                  0.7307692
+Sp                  0.5666667
+PPV                 0.2676056
+NPV                 0.9066667
+DLR.Positive        1.6863905
+DLR.Negative        0.4751131
+FP                104.0000000
+FN                 14.0000000
+Optimal criterion   0.2974359
+
+
+AIMS65
+
+
+Area under the ROC curve (AUC):  0.566 (0.484, 0.648) 
+
+CRITERION: Youden
+Number of optimal cutoffs: 1
+
+                     Estimate
+cutoff              1.0000000
+Se                  0.6923077
+Sp                  0.4208333
+PPV                 0.2057143
+NPV                 0.8632479
+DLR.Positive        1.1953514
+DLR.Negative        0.7311500
+FP                139.0000000
+FN                 16.0000000
+Optimal criterion   0.1131410
+
+
+
+PNED
+
+
+Area under the ROC curve (AUC):  0.773 (0.704, 0.843) 
+
+CRITERION: Youden
+Number of optimal cutoffs: 1
+
+                    Estimate
+cutoff             6.0000000
+Se                 0.5384615
+Sp                 0.8708333
+PPV                0.4745763
+NPV                0.8969957
+DLR.Positive       4.1687345
+DLR.Negative       0.5299963
+FP                31.0000000
+FN                24.0000000
+Optimal criterion  0.4092949
+
+
+# DEATH 7-28
+
+ROCKALL
+
+
+Area under the ROC curve (AUC):  0.689 (0.546, 0.832) 
+
+CRITERION: Youden
+Number of optimal cutoffs: 1
+
+                      Estimate
+cutoff              5.00000000
+Se                  0.86666667
+Sp                  0.41877256
+PPV                 0.07471264
+NPV                 0.98305085
+DLR.Positive        1.49109731
+DLR.Negative        0.31839080
+FP                161.00000000
+FN                  2.00000000
+Optimal criterion   0.28543923
+
+
+
+GBS
+
+
+Area under the ROC curve (AUC):  0.699 (0.625, 0.773) 
+
+CRITERION: Youden
+Number of optimal cutoffs: 1
+
+                     Estimate
+cutoff             10.0000000
+Se                  0.7307692
+Sp                  0.5666667
+PPV                 0.2676056
+NPV                 0.9066667
+DLR.Positive        1.6863905
+DLR.Negative        0.4751131
+FP                104.0000000
+FN                 14.0000000
+Optimal criterion   0.2974359
+
+
+
+AIMS65
+
+
+Area under the ROC curve (AUC):  0.566 (0.484, 0.648) 
+
+CRITERION: Youden
+Number of optimal cutoffs: 1
+
+                     Estimate
+cutoff              1.0000000
+Se                  0.6923077
+Sp                  0.4208333
+PPV                 0.2057143
+NPV                 0.8632479
+DLR.Positive        1.1953514
+DLR.Negative        0.7311500
+FP                139.0000000
+FN                 16.0000000
+Optimal criterion   0.1131410
+
+
+PNED
+
+Area under the ROC curve (AUC):  0.773 (0.704, 0.843) 
+
+CRITERION: Youden
+Number of optimal cutoffs: 1
+
+                    Estimate
+cutoff             6.0000000
+Se                 0.5384615
+Sp                 0.8708333
+PPV                0.4745763
+NPV                0.8969957
+DLR.Positive       4.1687345
+DLR.Negative       0.5299963
+FP                31.0000000
+FN                24.0000000
+Optimal criterion  0.4092949
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

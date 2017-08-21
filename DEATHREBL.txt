@@ -1,0 +1,345 @@
+# DEATH
+
+PNED
+
+Area under the ROC curve (AUC):  0.746 (0.651, 0.841) 
+
+CRITERION: Youden
+Number of optimal cutoffs: 1
+
+                    Estimate
+cutoff             6.0000000
+Se                 0.5333333
+Sp                 0.8358779
+PPV                0.2711864
+NPV                0.9399142
+DLR.Positive       3.2496124
+DLR.Negative       0.5582953
+FP                43.0000000
+FN                14.0000000
+Optimal criterion  0.3692112
+
+AIMS65
+
+Area under the ROC curve (AUC):  0.715 (0.621, 0.808) 
+
+CRITERION: Youden
+Number of optimal cutoffs: 1
+
+                    Estimate
+cutoff             2.0000000
+Se                 0.5666667
+Sp                 0.7442748
+PPV                0.2023810
+NPV                0.9375000
+DLR.Positive       2.2159204
+DLR.Negative       0.5822222
+FP                67.0000000
+FN                13.0000000
+Optimal criterion  0.3109415
+
+
+
+GBS
+
+Area under the ROC curve (AUC):  0.624 (0.524, 0.725) 
+
+CRITERION: Youden
+Number of optimal cutoffs: 1
+
+                    Estimate
+cutoff            13.0000000
+Se                 0.4000000
+Sp                 0.8129771
+PPV                0.1967213
+NPV                0.9220779
+DLR.Positive       2.1387755
+DLR.Negative       0.7380282
+FP                49.0000000
+FN                18.0000000
+Optimal criterion  0.2129771
+
+
+ROCKALL
+
+Area under the ROC curve (AUC):  0.729 (0.642, 0.816) 
+
+CRITERION: Youden
+Number of optimal cutoffs: 1
+
+                     Estimate
+cutoff              6.0000000
+Se                  0.8333333
+Sp                  0.5610687
+PPV                 0.1785714
+NPV                 0.9671053
+DLR.Positive        1.8985507
+DLR.Negative        0.2970522
+FP                115.0000000
+FN                  5.0000000
+Optimal criterion   0.3944020
+
+
+
+ COMP (SUM OF PNED AND ROCKALL)
+
+Area under the ROC curve (AUC):  0.767 (0.675, 0.859) 
+
+CRITERION: Youden
+Number of optimal cutoffs: 1
+
+                    Estimate
+cutoff            12.0000000
+Se                 0.6000000
+Sp                 0.8244275
+PPV                0.2812500
+NPV                0.9473684
+DLR.Positive       3.4173913
+DLR.Negative       0.4851852
+FP                46.0000000
+FN                12.0000000
+Optimal criterion  0.4244275
+
+
+
+
+
+
+# REBLEED FINAL
+
+#ROCKALL
+
+Area under the ROC curve (AUC):  0.665 (0.586, 0.743) 
+
+CRITERION: Youden
+Number of optimal cutoffs: 1
+
+                     Estimate
+cutoff              4.0000000
+Se                  0.8541667
+Sp                  0.3811475
+PPV                 0.2135417
+NPV                 0.9300000
+DLR.Positive        1.3802428
+DLR.Negative        0.3826165
+FP                151.0000000
+FN                  7.0000000
+Optimal criterion   0.2353142
+
+# GBS
+
+Area under the ROC curve (AUC):  0.706 (0.632, 0.781) 
+
+CRITERION: Youden
+Number of optimal cutoffs: 1
+
+                     Estimate
+cutoff             10.0000000
+Se                  0.7500000
+Sp                  0.5655738
+PPV                 0.2535211
+NPV                 0.9200000
+DLR.Positive        1.7264151
+DLR.Negative        0.4420290
+FP                106.0000000
+FN                 12.0000000
+Optimal criterion   0.3155738
+
+
+# AIMS65
+
+Area under the ROC curve (AUC):  0.567 (0.483, 0.65) 
+
+CRITERION: Youden
+Number of optimal cutoffs: 1
+
+                     Estimate
+cutoff              1.0000000
+Se                  0.7083333
+Sp                  0.4221311
+PPV                 0.1942857
+NPV                 0.8803419
+DLR.Positive        1.2257683
+DLR.Negative        0.6909385
+FP                141.0000000
+FN                 14.0000000
+Optimal criterion   0.1304645
+
+
+
+# PNED
+
+Area under the ROC curve (AUC):  0.798 (0.733, 0.863) 
+
+CRITERION: Youden
+Number of optimal cutoffs: 1
+
+                    Estimate
+cutoff             6.0000000
+Se                 0.5625000
+Sp                 0.8688525
+PPV                0.4576271
+NPV                0.9098712
+DLR.Positive       4.2890625
+DLR.Negative       0.5035377
+FP                32.0000000
+FN                21.0000000
+Optimal criterion  0.4313525
+
+
+
+
+# BLOOD TRANSFUSION
+
+
+ROCKALL
+
+Area under the ROC curve (AUC):  0.738 (0.679, 0.797) 
+
+CRITERION: Youden
+Number of optimal cutoffs: 1
+
+                    Estimate
+cutoff             4.0000000
+Se                 0.8414634
+Sp                 0.5781250
+PPV                0.7187500
+NPV                0.7400000
+DLR.Positive       1.9945799
+DLR.Negative       0.2742254
+FP                54.0000000
+FN                26.0000000
+Optimal criterion  0.4195884
+
+
+# GBS
+
+
+
+Area under the ROC curve (AUC):  0.706 (0.632, 0.781) 
+
+CRITERION: Youden
+Number of optimal cutoffs: 1
+
+                     Estimate
+cutoff             10.0000000
+Se                  0.7500000
+Sp                  0.5655738
+PPV                 0.2535211
+NPV                 0.9200000
+DLR.Positive        1.7264151
+DLR.Negative        0.4420290
+FP                106.0000000
+FN                 12.0000000
+Optimal criterion   0.3155738
+
+
+# AIMS65
+
+
+Area under the ROC curve (AUC):  0.567 (0.483, 0.65) 
+
+CRITERION: Youden
+Number of optimal cutoffs: 1
+
+                     Estimate
+cutoff              1.0000000
+Se                  0.7083333
+Sp                  0.4221311
+PPV                 0.1942857
+NPV                 0.8803419
+DLR.Positive        1.2257683
+DLR.Negative        0.6909385
+FP                141.0000000
+FN                 14.0000000
+Optimal criterion   0.1304645
+
+
+
+# PNED
+
+Area under the ROC curve (AUC):  0.798 (0.733, 0.863) 
+
+CRITERION: Youden
+Number of optimal cutoffs: 1
+
+                    Estimate
+cutoff             6.0000000
+Se                 0.5625000
+Sp                 0.8688525
+PPV                0.4576271
+NPV                0.9098712
+DLR.Positive       4.2890625
+DLR.Negative       0.5035377
+FP                32.0000000
+FN                21.0000000
+Optimal criterion  0.4313525
+
+
+# LACTATE , SCORE
+
+
+
+# Lactate t test for DEATH
+
+Welch Two Sample t-test
+
+data:  hematemesis1$Lactate by hematemesis1$DEATH
+t = -2.1522, df = 30.583, p-value = 0.03939
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -2.58269113 -0.06869309
+sample estimates:
+mean in group n mean in group y 
+       2.291641        3.617333 
+
+
+# # Lactate t test for REBLEED
+
+
+
+	Welch Two Sample t-test
+
+data:  hematemesis1$Lactate by hematemesis1$REBLEED
+t = -1.9309, df = 49.884, p-value = 0.05919
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.99773784  0.03942499
+sample estimates:
+mean in group n mean in group y 
+       2.266885        3.246042 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
